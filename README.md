@@ -41,3 +41,12 @@ Shadow Protocol; Windows telemetrisini en aza indirmek, Görev Zamanlayıcı ara
 ```bash
 pip install customtkinter pystray Pillow
 python destroy.py
+
+⚠️ Yasal Uyarı (Disclaimer)
+TR: Bu araç sistem ayarlarını ve servislerini değiştirir. Oluşabilecek sistem arızalarından veya veri kayıplarından geliştirici SORUMLU DEĞİLDİR. Kullanım riski kullanıcıya aittir. Çalıştırmadan önce MUTLAKA bir Sistem Geri Yükleme Noktası oluşturun.
+
+EN: This tool modifies system settings and services. The developer is NOT responsible for any system instability or data loss. Use at your own risk. Always create a System Restore Point before execution.
+
+📜 Lisans (License)
+Bu proje MIT Lisansı altında lisanslanmıştır.
+This project is licensed under the MIT License.
