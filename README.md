@@ -4,6 +4,7 @@
 *Advanced Windows Privacy, Stealth & Deep Cleaning Tool*
 
 Shadow Protocol; Windows telemetrisini en aza indirmek, Görev Zamanlayıcı aracılığıyla UAC (Kullanıcı Hesabı Denetimi) engelini aşmak ve hassas sistem izlerini otomatik olarak temizlemek için tasarlanmış profesyonel bir Python aracıdır.
+<img width="346" height="199" alt="Ekran görüntüsü 2026-02-26 173249" src="https://github.com/user-attachments/assets/8249309b-52c4-4f77-a4d6-151ca1d8531f" />
 
 ---
 
